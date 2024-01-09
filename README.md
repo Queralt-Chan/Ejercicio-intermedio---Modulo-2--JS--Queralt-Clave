@@ -1,0 +1,1 @@
+# Ejercicio-intermedio---Modulo-2--JS--Queralt-Clave
